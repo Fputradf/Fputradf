@@ -1,10 +1,19 @@
-<h1 align="center">Hi 👋, I'm Fajar Putra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hallo 👋, saya Fajar Putra</h1>
+<h3 align="center">Aspiring Backend Developer | Software Engineering</h3>
 
-- 🔭 I’m currently working on **AreaKerja**
+- 🔭 I’m currently working on [AreaKerja](https://github.com/ArdiannXyz/AreaKerja_web)
+
+- 🌱 I’m currently learning **Laravel,Flutter,Docker**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-fajar-45682228b/](https://www.linkedin.com/in/muhammad-fajar-45682228b/)
+
+- 📫 How to reach me **muhammadfajar1250@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/muhammad fajar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad fajar" height="30" width="40" /></a>
+<a href="https://fb.com/yorhr r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yorhr r" height="30" width="40" /></a>
+<a href="https://instagram.com/naathzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naathzu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
